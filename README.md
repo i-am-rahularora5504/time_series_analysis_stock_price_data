@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # time_series_analysis_stock_price_data
 
 # 📈 Time Series Analysis of Stock Prices (Quant-Oriented Project)
