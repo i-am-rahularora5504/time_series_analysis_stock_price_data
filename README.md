@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# time_series_analysis_stock_price_data
 
-# 📈 Time Series Analysis of Stock Prices (Quant-Oriented Project)
+# Time Series Analysis of Stock Prices (Quant-Oriented Project)
 
-## 🚀 Overview
+## Overview
 
 This project performs time series analysis on historical stock price data of Reliance Industries to extract insights relevant to quantitative trading and financial modeling.
 
@@ -11,7 +9,7 @@ The goal is to understand key statistical properties of financial time series su
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * Source: Yahoo Finance (via yfinance)
 * Asset: RELIANCE.NS (NSE)
@@ -27,7 +25,7 @@ The goal is to understand key statistical properties of financial time series su
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 1. Data Ingestion & Cleaning
 
@@ -102,7 +100,7 @@ The goal is to understand key statistical properties of financial time series su
 
 ---
 
-## 🧠 Quant Relevance
+## Quant Relevance
 
 This project demonstrates foundational concepts used in:
 
@@ -113,7 +111,7 @@ This project demonstrates foundational concepts used in:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -124,7 +122,7 @@ This project demonstrates foundational concepts used in:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -136,7 +134,7 @@ This project demonstrates foundational concepts used in:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project builds a strong foundation in time series analysis for financial data, covering essential concepts like stationarity, autocorrelation, and transformations.
 
